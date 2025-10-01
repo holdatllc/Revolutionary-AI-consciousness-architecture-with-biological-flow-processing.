@@ -1,0 +1,3 @@
+[console_scripts]
+hcm-demo = examples.test_hcm_standalone:main
+hcm-validate = tests.hcm_validation_test:main
